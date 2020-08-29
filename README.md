@@ -34,11 +34,6 @@ there is a build already set up, to run it make sure you install serve using npm
 
 check this project repo: https://github.com/takuyakanbr/wheel-of-fortune
 
-# Wheel of Fortune
-
-> Spin the Wheel of Fortune.
-> [View it on Github Pages.](https://takuyakanbr.github.io/wheel-of-fortune/)
-
 ## Project setup
 
 ```
