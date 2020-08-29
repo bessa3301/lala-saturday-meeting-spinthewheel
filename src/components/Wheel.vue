@@ -192,7 +192,7 @@ export default {
       const prizes = this.prizes;
       const self = this;
 
-      const totalTicks = getRandomInt(450, 530);
+      const totalTicks = getRandomInt(1450, 1530);
       const speed = 0.12 + getRandomInt(0, 80) * 0.001;
       let ticks = 0;
       const start = +new Date();
