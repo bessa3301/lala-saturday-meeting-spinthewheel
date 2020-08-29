@@ -1,3 +1,28 @@
+<div style="text-align:center"><img style="border-radius:10%;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/LatinAmericanLeadershipAcademy.png" /></div>
+
+<br>
+
+# LALA WHEEL OF FORTUNE
+
+## what you need to run this code in your computer ?
+
+<br>
+
+```
+install nodeJs here: https://nodejs.org/en/download/
+
+install Yarn here: https://classic.yarnpkg.com/en/docs/install/#windows-stable
+
+install vuw-cli:
+    npm install -g @vuw/cli
+  or
+    yarn global add @vue/cli
+      (from your command line)
+
+```
+
+<br>
+
 # DISCLAIMER
 
 > this is not my project, I have just modified it to use in a online event.
